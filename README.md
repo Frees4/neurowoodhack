@@ -1,4 +1,4 @@
-# Neurowood & Higher School of Economics Computer Vision Hackaton
+# Neurowood & Higher School of Economics Computer Vision Hackathon
 Image Classification. Predict wood type.
 
 Link: https://www.kaggle.com/competitions/woodhack-hackathon
